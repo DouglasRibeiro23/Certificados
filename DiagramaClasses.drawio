@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-17T22:04:12.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="KHKE-i2xU0WH7GhQJYFl" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-17T22:05:53.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EdcDpYGVw23vbNAVJMZH" version="21.7.2" type="github">
   <diagram name="Página-1" id="pJbu8q1TlLxp4YdaZxUQ">
     <mxGraphModel dx="880" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,8 +115,11 @@
         <mxCell id="QZJBtZwxcG97d1Zqsxdi-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QZJBtZwxcG97d1Zqsxdi-4" target="QZJBtZwxcG97d1Zqsxdi-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pPWu_3nfwVEaJxGkrCwI-1" value="&lt;h1&gt;Diagrama de Classes&lt;/h1&gt;&lt;p&gt;Versão: ______________&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Atualização:&amp;nbsp; ____/ _____/ ______&lt;/p&gt;&lt;p&gt;Responsável: ____________________________________________&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Autorizado: ____/ _____/ ______&amp;nbsp; &amp;nbsp; Visto: ______________________" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1030" width="380" height="120" as="geometry" />
+        <mxCell id="pPWu_3nfwVEaJxGkrCwI-1" value="&lt;h1&gt;Diagrama de Classes&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Versão: ______________&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Atualização:&amp;nbsp; ____/ _____/ ______&lt;/p&gt;&lt;p&gt;Responsável: ____________________________________________&lt;/p&gt;&lt;p&gt;&lt;/p&gt;Autorizado: ____/ _____/ ______&amp;nbsp; &amp;nbsp; Visto: ______________________" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1030" width="460" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pPWu_3nfwVEaJxGkrCwI-2" value="CERTIFICADOS" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1020" width="510" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
